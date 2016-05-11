@@ -1,5 +1,5 @@
 FROM python:3-alpine
-MAINTEINER csuarez@thoughtworks.com
+MAINTAINER csuarez@thoughtworks.com
 
 COPY . /app
 WORKDIR /app
